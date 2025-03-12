@@ -24,7 +24,7 @@ La aplicación tendrá la siguientes pantallas
    ![Pantalla 7](docs/imagenes_interfaz/7.png)  
 
 8. **Pantalla 8**  
-   ![Pantalla 8](docs/imagenes_interfaz/8.png)  
+   ![Pantalla 8](docs/imagenes_interfaz/8.png) 
 # Referencias
 
 - [Material Design: Foundations](https://m3.material.io/foundations)
