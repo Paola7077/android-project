@@ -1,7 +1,6 @@
 # Funcionalidades
 
-La siguientes es una lista de las funcionalidades disponibles para el usuario de la aplicación:
-
-1. ...
-2. ...
-...
+Por ahora a las unicas funcionalidades que apunto son a 
+1. Poder escribir en el relatos largos
+2. Guardar fotos previamente ya tomadas
+3. Tomar notas de voz
