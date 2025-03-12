@@ -1,21 +1,12 @@
 # Ideas de proyecto
 
 ## Idea 1
+Este proyecto busca preservar la memoria colectiva mediante el registro digital de testimonios orales de distintos grupos sociales. Muchas comunidades, como San Cristóbal, poseen historias valiosas que corren el riesgo de perderse con el tiempo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+This project seeks to preserve collective memory by digitally recording oral testimonies from different social groups. Many communities, have rich histories that remain undocumented, risking their loss over time.
 Aplicaciones similares:
 
-- ...
-- ...
-- ...
-
-## Idea 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Aplicaciones similares:
-
-- ...
-- ...
-- ...
+Play.google.com
+play.google.com
+Memorize  (siendo este de quien más me inspire en su interfaz grafica)
+https://play.google.com/store/apps/details?id=com.fairapps.memorize&hl=es_CO&pli=1
